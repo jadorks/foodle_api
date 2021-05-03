@@ -139,7 +139,7 @@ ACCOUNT_EMAIL_REQUIRED = True
 ACCOUNT_EMAIL_VERIFICATION = 'mandatory'
 
 ACCOUNT_CONFIRM_EMAIL_ON_GET = True
-LOGIN_URL = 'http://localhost:8000/users/login'
+LOGIN_URL = 'http://foodlerest.herokuapp.com/users/login'
 
 # Internationalization
 # https://docs.djangoproject.com/en/3.2/topics/i18n/
